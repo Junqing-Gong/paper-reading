@@ -13,10 +13,11 @@
 **☞ 论文按照阅读顺序排放**
 
 # Contents | 内容
-+ [综述](#综述)
++ [综述](#-summarize-|-综述)
 + [预训练](#预训练)
 + [命名实体识别](#命名实体识别)
 + [计算机视觉](#计算机视觉)
++ [仓库](#仓库)
 
 
 # Summarize | 综述
@@ -36,4 +37,6 @@
 + [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)：AlexNet | Alex et al,2012
 
 + [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)：ResNet | Kaiming et al,2015
+
+# Repositories | 仓库
 
