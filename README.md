@@ -34,7 +34,7 @@
 + [Discontinuous Named Entity Recognition as Maximal Clique Discovery](https://arxiv.org/abs/2106.00218)：极大团 | Wang et al,2021  &ensp; **:clock3:2021/11/28-2021/12/3**
 
 # CV | 计算机视觉
-+ [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)：AlexNet | Alex et al,2012  &ensp; **:clock3:2021/12/20-** &ensp; ☞ [笔记](./note/AlexNet.md)
++ [ImageNet Classification with Deep Convolutional Neural Networks](https://papers.nips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)：AlexNet | Alex et al,2012  &ensp; **:clock3:2021/12/20-** &ensp; ☞ [笔记](./note/mkd/AlexNet.md)
 
 + [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)：ResNet | Kaiming et al,2015  &ensp; **:clock3:**
 
