@@ -1,3 +1,3 @@
 # 哈哈哈
 
-![1](../img/1.jpg)
+![1](../../img/AlexNet/AlexNet_页面_01.jpg)
