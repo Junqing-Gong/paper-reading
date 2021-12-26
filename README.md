@@ -38,5 +38,7 @@
 
 + [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)：ResNet | Kaiming et al,2015  &ensp; **:clock3:2021/12/24-2021/12/26**  &ensp; ☞ [笔记](./note/mkd/ResNet.md)
 
++ [Generative Adversarial Nets](https://papers.nips.cc/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)：GAN | Goodfellow et al,2014  &ensp; **:clock3:2021/12/26-2021/12/28**  &ensp; ☞ [笔记](./note/mkd/GAN.md)
+
 # Repositories | 仓库
 + [精读论文——李沐](https://github.com/mli/paper-reading)
