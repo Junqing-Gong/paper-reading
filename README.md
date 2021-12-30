@@ -26,7 +26,7 @@
 # Pretraining | 预训练 
 + [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)：BERT | Devlin et al,2019 &ensp; **:clock3:2021/12/3-2021/12/9**
 
-+ [Attention Is All You Need](https://ieeexplore.ieee.org/abstract/document/9039685)：transformer | Vaswani et al,2017 &ensp; **:clock3:2021/12/10-2021/12/14**
++ [Attention Is All You Need](https://ieeexplore.ieee.org/abstract/document/9039685)：transformer | Vaswani et al,2017 &ensp; **:clock3:2021/12/10-2021/12/14**  &ensp; ☞ [笔记](./note/mkd/transformer.md)
 
 + [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)：GPT | Radford et al,2018 &ensp; **:clock3:**
 
