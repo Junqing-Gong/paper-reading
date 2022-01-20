@@ -21,7 +21,7 @@
 
 
 # Summarize | 综述
-+ [A Survey on Deep Learning for Named Entity Recognition](https://ieeexplore.ieee.org/abstract/document/9039685)：实体识别综述 | Li et al,2020 &ensp; **:clock3:2021/12/17-**
++ [A Survey on Deep Learning for Named Entity Recognition](https://ieeexplore.ieee.org/abstract/document/9039685)：实体识别综述 | Li et al,2020 &ensp; **:clock3:2021/12/17-2022/1/16**
 
 # Pretraining | 预训练 
 + [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)：BERT | Devlin et al,2019 &ensp; **:clock3:2021/12/3-2021/12/9**
